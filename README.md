@@ -40,7 +40,7 @@ Total Records: **2000**
 
 ---
 
-# ⚙️ Tools & Technologies Used
+# Tools & Technologies Used
 
 * MySQL
 * MySQL Workbench
