@@ -268,13 +268,9 @@ Through this project, I learned:
 * How to analyze retail sales data effectively
 
 ---
+#  Conclusion
 
-#  Future Improvements
-
-* Create dashboards using Power BI or Tableau
-* Add advanced SQL queries and joins
-* Perform customer segmentation analysis
-* Build sales forecasting models using Python
+Through this project, I gained hands-on experience in MySQL by working with a retail sales dataset and solving real business problems using SQL queries. The analysis helped uncover valuable insights related to sales performance, customer behavior, and product categories. This project enhanced my skills in data cleaning, querying, aggregation, and business analysis, making it an important step in my journey toward Data Analytics.
 
 ---
 
